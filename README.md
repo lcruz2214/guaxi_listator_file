@@ -9,9 +9,6 @@ Gera a lista em um arquivo Excel chamado Lista_de_arquivos.xlsx.
 Instale a biblioteca necessária:
 pip install pandas
 
-Execute o script:
-python script.py
-
 ## Siga as instruções na tela:
 
 Insira um caminho de diretório ou deixe em branco para usar o diretório de trabalho atual.
@@ -23,4 +20,4 @@ O script gera uma lista amigável para o usuário de arquivos, tornando convenie
 ## Observações
 O script utiliza a biblioteca os integrada do Python para operações de arquivo.
 A biblioteca pandas é necessária para manipulação de dados e exportação para Excel.
-Sinta-se à vontade para personalizar este README.md para incluir informações adicionais ou instruções relevantes ao seu caso de uso.
+Sinta-se à vontade para personalizar e adequar a sua nescessidade.
